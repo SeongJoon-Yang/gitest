@@ -10,7 +10,12 @@ public class GitController {
 		return "재미따!🙃";
 	}
 	
+
 	public double test3() {
 		return 65.5;
+	}
+
+	public int test4() {
+		return 10;
 	}
 }
