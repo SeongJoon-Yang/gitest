@@ -18,4 +18,8 @@ public class GitController {
 	public int test4() {
 		return 10;
 	}
+	
+	public void test5() {
+		System.out.println("git");
+	}
 }
