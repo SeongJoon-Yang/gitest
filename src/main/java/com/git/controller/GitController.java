@@ -26,4 +26,8 @@ public class GitController {
 	public void test6() {
 		System.out.println("생쇼!");
 	}
+	
+	public void test7() {
+		
+	}
 }
