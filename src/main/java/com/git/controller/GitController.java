@@ -18,4 +18,8 @@ public class GitController {
 	public int test4() {
 		return 10;
 	}
+	
+	public int test5() {
+		return 100000;
+	}
 }
