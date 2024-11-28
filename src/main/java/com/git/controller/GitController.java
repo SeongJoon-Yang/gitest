@@ -22,4 +22,8 @@ public class GitController {
 	public void test5() {
 		System.out.println("git");
 	}
+	
+	public void test6() {
+		System.out.println("생쇼!");
+	}
 }
