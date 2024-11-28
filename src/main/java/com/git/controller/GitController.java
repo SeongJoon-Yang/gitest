@@ -19,7 +19,15 @@ public class GitController {
 		return 10;
 	}
 	
-	public int test5() {
-		return 100000;
+	public void test5() {
+		System.out.println("git");
+	}
+	
+	public void test6() {
+		System.out.println("생쇼!");
+	}
+	
+	public void test7() {
+
 	}
 }
