@@ -18,4 +18,16 @@ public class GitController {
 	public int test4() {
 		return 10;
 	}
+	
+	public void test5() {
+		System.out.println("git");
+	}
+	
+	public void test6() {
+		System.out.println("생쇼!");
+	}
+	
+	public void test7() {
+
+	}
 }
